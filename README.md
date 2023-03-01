@@ -1,9 +1,9 @@
 
 # Twystocker - repo
 
-This is the repo for all tweets retrieved through twitter API from the [Twystocker](https://twystocker.streamlit.app/) web app.
+This is the repo for all tweets retrieved from the [Twystocker](https://twystocker.streamlit.app/) web app.
 
-The tweets are on the most cited stocks in WallStreetBets sub-reddit
+The tweets are on the most cited stocks in [WallStreetBets](https://www.reddit.com/r/wallstreetbets/) sub-reddit
 
 Columns are:
 
@@ -13,9 +13,6 @@ Columns are:
  - $tag (filter for the search)
 
  
-
-
-
 ## Acknowledgements
 
  - [yolostocks.live](https://yolostocks.live)
@@ -30,6 +27,8 @@ Columns are:
 ## Appendix
 
 New data will be uploaded every 1st of the month.
+
+Visit [Twystocker](https://twystocker.streamlit.app/) and please :star: this repo!
 
 
 ## 🔗 Links
