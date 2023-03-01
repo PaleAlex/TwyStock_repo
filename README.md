@@ -16,6 +16,7 @@ Columns are:
 ## Acknowledgements
 
  - [yolostocks.live](https://yolostocks.live)
+ - [reddit counts](https://github.com/youyanggu/yolostocks-data)
  - [The project](https://palealex.github.io/)
 
 
