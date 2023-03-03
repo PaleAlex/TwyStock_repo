@@ -7,9 +7,10 @@ The tweets are about the most cited stocks in [WallStreetBets](https://www.reddi
 
 Columns are:
  - $tag (filter used for the search)
+ - day in the format %Y-%m-&d
  - timestamp of the first tweet retrieved in a specific day (UTC+0)
  - timestamp of the last tweet retrieved in a specific day (UTC+0)
- - daily tweets count
+ - tweets count
  
 
  
@@ -32,7 +33,7 @@ New data will be uploaded every 1st of the month.
 Visit [Twystocker](https://twystocker.streamlit.app/) and please :star: this repo!
 
 
-## 🔗 Links
+## 🔗 Contact
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ac-palealex/)
 
 
