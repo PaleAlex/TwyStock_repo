@@ -1,16 +1,16 @@
 
 # Twystocker - repo
 
-This is the repo for all tweet counts coming from the [Twystocker](https://twystocker.streamlit.app/) web app.
+This is the repo for all tweets counts coming from the [Twystocker](https://twystocker.streamlit.app/) web app.
 
 The tweets are about the most cited stocks in [WallStreetBets](https://www.reddit.com/r/wallstreetbets/) sub-reddit.
 
 Columns are:
-
- - daily tweets count
+ - $tag (filter used for the search)
  - timestamp of the first tweet retrieved in a specific day (UTC+0)
  - timestamp of the last tweet retrieved in a specific day (UTC+0)
- - $tag (filter used for the search)
+ - daily tweets count
+ 
 
  
 ## Acknowledgements
