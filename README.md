@@ -1,7 +1,7 @@
 
 # Twystocker - repo
 
-This is the repo for all tweets counts coming from the [Twystocker](https://twystocker.streamlit.app/) web app.
+This is the repo for all ORIGINAL tweets (retweet excluded) counts coming from the [Twystocker](https://twystocker.streamlit.app/) web app.
 
 The tweets are about the most cited stocks in [WallStreetBets](https://www.reddit.com/r/wallstreetbets/) sub-reddit.
 
