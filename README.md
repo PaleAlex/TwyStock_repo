@@ -1,7 +1,8 @@
 
 # Twystocker - repo
 
-This is the repo for all ORIGINAL tweets (retweet excluded) counts coming from the [Twystocker](https://twystocker.streamlit.app/) web app.
+This is the repo for all ORIGINAL tweets (retweet excluded) counts coming from Twitter.
+update: since Twitter became X, my API keys has been blocked, so that the service is no longer available for collecting new data
 
 The tweets are about the most cited stocks in [WallStreetBets](https://www.reddit.com/r/wallstreetbets/) sub-reddit.
 
@@ -25,12 +26,6 @@ Columns are:
 
 - [@PaleAlex](https://github.com/PaleAlex)
 
-
-## Appendix
-
-New data will be uploaded every 1st of the month.
-
-Visit [Twystocker](https://twystocker.streamlit.app/) and please :star: this repo!
 
 
 ## 🔗 Contact
